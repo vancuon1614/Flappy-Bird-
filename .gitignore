@@ -1,0 +1,28 @@
+# --- Các thư mục tạm thời và dữ liệu sinh tự động (Bắt buộc loại bỏ) ---
+/[Ll]ibrary/
+/[Tt]emp/
+/[Obj]/
+/[Build]/
+/[Builds]/
+/[Logs]/
+/[UserSettings]/
+
+# --- Các file giải pháp của Visual Studio / IDE (Unity sẽ tự tạo lại) ---
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.opendb
+*.VC.db
+
+# --- Các file hệ thống và lưu trữ tạm thời của OS ---
+.DS_Store
+Thumbs.db
+Desktop.ini
